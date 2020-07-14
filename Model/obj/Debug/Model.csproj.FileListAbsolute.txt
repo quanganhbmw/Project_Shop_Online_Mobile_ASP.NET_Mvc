@@ -13,3 +13,19 @@ C:\Users\User\source\repos\MobileShopV\Model\obj\Debug\Model.csproj.CoreCompileI
 C:\Users\User\source\repos\MobileShopV\Model\obj\Debug\Model.csproj.CopyComplete
 C:\Users\User\source\repos\MobileShopV\Model\obj\Debug\Model.dll
 C:\Users\User\source\repos\MobileShopV\Model\obj\Debug\Model.pdb
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\bin\Debug\Model.dll.config
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\bin\Debug\Model.dll
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\bin\Debug\Model.pdb
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\bin\Debug\PagedList.dll
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\bin\Debug\PagedList.xml
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\obj\Debug\Model.dll
+C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\obj\Debug\Model.pdb
