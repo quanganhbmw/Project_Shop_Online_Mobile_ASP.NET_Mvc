@@ -29,3 +29,19 @@ C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\o
 C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\obj\Debug\Model.csproj.CopyComplete
 C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\obj\Debug\Model.dll
 C:\Users\DELL\Desktop\Project ASP\Project_Shop_Online_Mobile_ASP.NET_Mvc\Model\obj\Debug\Model.pdb
+C:\Users\User\Desktop\Project\Model\bin\Debug\Model.dll.config
+C:\Users\User\Desktop\Project\Model\bin\Debug\Model.dll
+C:\Users\User\Desktop\Project\Model\bin\Debug\Model.pdb
+C:\Users\User\Desktop\Project\Model\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Project\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Project\Model\bin\Debug\PagedList.dll
+C:\Users\User\Desktop\Project\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\User\Desktop\Project\Model\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Project\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Project\Model\bin\Debug\PagedList.xml
+C:\Users\User\Desktop\Project\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\User\Desktop\Project\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\User\Desktop\Project\Model\obj\Debug\Model.dll
+C:\Users\User\Desktop\Project\Model\obj\Debug\Model.pdb
